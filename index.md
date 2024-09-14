@@ -69,7 +69,7 @@
     <br>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-    <h1>About me <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/Jai shree ram bro.gif"/></h1>
+    <h1>About me <img height="60" src="https://raw.githubusercontent.com/Sarcasticbot/sanatanixtech.github.io/main/assets/Jai shree ram bro.gif"/></h1>
 
     <ul>
         <li> I am Sarcastic, your friendly telegram bot providing you with a spam-free and fun experience!</li>
@@ -80,7 +80,7 @@
         <li> I have AI features to make conversations interesting. 🤖</li>
     </ul>
 
-    <h1>How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/></h1>
+    <h1>How to use me...<img height="80" src="https://raw.githubusercontent.com/Sarcasticbot/sanatanixtech.github.io/main/assets/emojibest_com_AnimatedSticker (2).gif"/></h1>
 
     <ol>
         <li> Start <a href="https://t.me/SarcasticXbot" target="_blank">Sarcastic bot</a> on Telegram</li>
@@ -114,7 +114,7 @@
         <li>You can always contact us at <a href="https://t.me/topperbothub" target="_blank">support chat</a></li>
     </ul>
 
-    <h1>Features <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/></h1>
+    <h1>Features <img height="50" src="https://raw.githubusercontent.com/Sarcasticbot/sanatanixtech.github.io/main/assets/emojibest_com_AnimatedSticker.gif"/></h1>
 
     <h2>Group management features...</h2>
 
@@ -135,7 +135,7 @@
     </ul>
 
     <p align="centre">
-        <h1> <img src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/songs.gif" width="90px"></h1>
+        <h1> <img src="https://raw.githubusercontent.com/Sarcasticbot/sanatanixtech.github.io/main/assets/songs.gif" width="90px"></h1>
     </p>
 
     <h2>Sarcastic music player features...</h2>
@@ -182,7 +182,7 @@
     </script>
     </ul>
 
-    <h1><img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/Sarcasticbot.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status</h1>
+    <h1><img height="40" src="https://raw.githubusercontent.com/Sarcasticbot/sanatanixtech.github.io/main/assets/ezgif-1-85ea87b06c.gif" width="50">  Status</h1>
 
     <table>
         <tr>
