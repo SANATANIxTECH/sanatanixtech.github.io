@@ -187,48 +187,48 @@
     <table>
         <tr>
             <th>Sarcastic</th>
-            <th>Features</th>
-            <th>Status</th>
+            <th>ғᴇᴀᴛᴜʀᴇs</th>
+            <th>sᴛᴀᴛᴜs</th>
         </tr>
         <tr>
             <td>1</td>
-            <td>Music</td>
+            <td>ᴍᴜsɪᴄ</td>
             <td>✔️</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>All important features</td>
+            <td>ᴀʟʟ ɪᴍᴘᴏʀᴛᴀɴᴛ ғᴇᴀᴛᴜʀᴇs</td>
             <td>✔️</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>Safe & Secure</td>
+            <td>sᴀғᴇ ᴀɴᴅ sᴇᴄᴜʀᴇ</td>
             <td>✔️</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>Working 24x7</td>
+            <td>ᴡᴏʀᴋɪɴɢ 24x7</td>
             <td>✔️</td>
         </tr>
     </table>
 
-    <p>More features will be added soon! (✿◠‿◠)</p>
+    <p>💐 ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs ᴡɪʟʟ ʙᴇ ᴀᴅᴅᴇᴅ sᴏᴏɴ !</p>
 
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
     <img align="middle" src="https://te.legra.ph/file/51ff8eec802d771c7e651.png" />
 
-    <h1>Bio Data ✨</h1>
+    <h1>💌 ʙɪᴏ ᴅᴀᴛᴀ 💌</h1>
 
     <dl>
-        <dt>Name</dt>
-        <dd>Sarcastic</dd>
-        <dt>Born</dt>
-        <dd>September 2022</dd>
-        <dt>Birthplace</dt>
-        <dd>Telegram</dd>
-        <dt>Language</dt>
-        <dd>Python</dd>
+        <dt>ɴᴀᴍᴇ</dt>
+        <dd>sᴀʀᴄᴀsᴛɪᴄ</dd>
+        <dt>ʙᴏʀɴ</dt>
+        <dd>sᴇᴘᴛᴇᴍʙᴇʀ 2023</dd>
+        <dt>ʙɪʀᴛʜᴘʟᴀᴄᴇ</dt>
+        <dd>ᴛᴇʟᴇɢʀᴀᴍ</dd>
+        <dt>ʟᴀɴɢᴜᴀɢᴇ</dt>
+        <dd>ᴘʏᴛʜᴏɴ</dd>
     </dl>
 
     <p align="left">
@@ -270,11 +270,11 @@
         </a>
     </li>
     <li>
-        You can always contact us at
+        ʏᴏᴜ ᴄᴀɴ ᴀʟᴡᴀʏs ᴄᴏɴᴛᴀᴄᴛ ᴜs ᴀᴛ
         <a href="https://t.me/topperbothub" target="_blank">support chat</a>
     </li>
-    <li>For any query and issue, you can also contact the bot developers</li>
-    <h2>Bot owner 👨‍💻</h2>
+    <li>ғᴏʀ ᴀɴʏ ǫᴜᴇʀʏ ᴀɴᴅ ɪssᴜᴇ, ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀs</li>
+    <h2>ʙᴏᴛ ᴏᴡɴᴇʀ</h2>
     <html>
     <head>
     <style>
@@ -301,10 +301,9 @@
     </html>
 
     <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=Thanks for visiting us 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
+        <img src="https://readme-typing-svg.herokuapp.com?color=F74772&width=500&lines=ᴛʜᴀɴᴋs ғᴏʀ ᴠɪsɪᴛɪɴɢ ᴜs 👀%E2%9C%8C%EF%B8%8F;Show some support and share us  👻%E2%9D%A4%EF%B8%8F;Thank you, have a nice day ❤✨%E2%9C%8C%EF%B8%8F">
     </p>
 
-    <p>© Sarcastic bot 2023-24</p>
+    <p>© SANATANI BOT 2024-25</p>
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
-
